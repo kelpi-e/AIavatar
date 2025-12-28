@@ -1,8 +1,9 @@
+
+# Исходый код из-за большого объема загружен на Google drive. Доступен по сслыке: https://drive.google.com/file/d/1cksl8ibCwPveJ9UZRsj60HFPgPiBpFYb/view?usp=sharing
+
 # Видео-аватар на Unreal Engine 5
 
 Интерактивный виртуальный персонаж-помощник с полноценной мимикой, жестами, голосовым и текстовым вводом.
-
-# Исходый код из-за большого объема загружен на Google drive. Доступен по сслыке: https://drive.google.com/file/d/1cksl8ibCwPveJ9UZRsj60HFPgPiBpFYb/view?usp=sharing
 
 ## Онлайн-демонстрация
 
