@@ -6,6 +6,10 @@
 
 ---
 
+## Демо-видео доступно по ссылке : [Посмотреть демо](https://drive.google.com/file/d/1t38qLsckQRmDOmUoLim39j8FEXEvy-GY/view?usp=sharing)
+
+---
+
 ## Онлайн-демонстрация
 
 Протестировать приложение можно по ссылке: [Попробовать демо](https://share.arcware.cloud/v1/share-53052340-36dd-412b-a3d3-8170e010b09e)
